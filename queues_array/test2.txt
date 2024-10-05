@@ -1,0 +1,21 @@
+Initial queue:
+        Memory block: [_ _ _ _ ]
+        Queue is empty
+After 3 enqueues:
+        Memory block: [10 20 30 _ ]
+        Queue elements: [10 20 30 ]
+After 2 enqueue:
+        Memory block: [10 20 30 40 50 _ _ _ ]
+        Queue elements: [10 20 30 40 50 ]
+After 2 dequeues:
+        Memory block: [10 20 30 40 50 _ _ _ ]
+        Queue elements: [30 40 50 ]
+After 4 enqueues:
+        Memory block: [90 20 30 40 50 60 70 80 ]
+        Queue elements: [30 40 50 60 70 80 90 ]
+After 5 dequeues:
+        Memory block: [90 20 30 40 50 60 70 80 ]
+        Queue elements: [80 90 ]
+After 2 enqueues:
+        Memory block: [90 100 110 40 50 60 70 80 ]
+        Queue elements: [80 90 100 110 ]

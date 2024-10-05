@@ -1,0 +1,10 @@
+Initial queue:
+	Queue elements: [10 20 30 40 _ ]
+After 1 enqueueing (and double size):
+	Queue elements: [10 20 30 40 50 _ _ _ _ ]
+After 2 dequeueing:
+	Queue elements: [30 40 50 _ _ _ _ ]
+After 2 enqueueings:
+	Queue elements: [30 40 50 60 70 _ _ ]
+After 3 dequeueings (and shrinking):
+	Queue elements: [60 70 _ _ ]
