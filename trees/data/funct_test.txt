@@ -1,0 +1,5 @@
+print tree: 	20 30 40 50 60 70 80 
+search 40 in tree (should return true): Found
+search 100 in tree (should return false): Not Found
+ add 40 to tree (shouodn't change)
+print tree: 	20 30 40 50 60 70 80 
