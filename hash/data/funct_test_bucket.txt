@@ -1,0 +1,2 @@
+search for 11115 (exists): 	found: Zip 11115 	 name: STOCKHOLM            	 population: 3
+search for 59500 (does not exist): 	not found
